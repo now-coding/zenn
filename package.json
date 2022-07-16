@@ -4,6 +4,10 @@
   "repository": "https://github.com/now-coding/zenn",
   "author": "KIUCHI Satoshinosuke <scholar@hayabusa-lab.jp>",
   "private": true,
+  "scripts": {
+    "new:article": "zenn new:article",
+    "preview": "zenn preview"
+  },
   "dependencies": {
     "zenn-cli": "^0.1.115"
   }
