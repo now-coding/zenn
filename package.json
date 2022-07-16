@@ -1,0 +1,10 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "repository": "https://github.com/now-coding/zenn",
+  "author": "KIUCHI Satoshinosuke <scholar@hayabusa-lab.jp>",
+  "private": true,
+  "dependencies": {
+    "zenn-cli": "^0.1.115"
+  }
+}
