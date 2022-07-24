@@ -3,7 +3,7 @@ title: "私たち、Now Codingです!"
 emoji: "🖥"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["NowCoding", "自己紹介"]
-published: false
+published: true
 ---
 
 ## 自己紹介
